@@ -1,0 +1,13 @@
+.click {
+  background-color: black;
+  color: white;
+}
+
+.shared {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.noClick {
+  background-color: yellow;
+}
